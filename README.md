@@ -4,10 +4,6 @@
 
 
 <p align="center">
-  <img src="icon.png" width="220" height="220" alt="CyberPunkNetRadar Icon" />
-</p>
-
-<p align="center">
   <strong>A futuristic cyberpunk round network radar widget for Windows desktop.</strong><br>
   Built with <strong>C# (.NET 10)</strong>, <strong>WPF</strong>, and <strong>SkiaSharp</strong> for real-time 60 FPS hardware-accelerated rendering.
 </p>
