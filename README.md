@@ -1,7 +1,8 @@
 # CyberPunkNetRadar 📡
 
+<p align="center">
 <img width="517" height="612" alt="Screenshot 2026-09-16 185730" src="https://github.com/user-attachments/assets/7fa1157d-ea31-477f-9819-4f66cb6ef50e" />
-
+</p>
 
 <p align="center">
   <strong>A futuristic cyberpunk round network radar widget for Windows desktop.</strong><br>
