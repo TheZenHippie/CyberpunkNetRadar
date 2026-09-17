@@ -1,5 +1,9 @@
 # CyberPunkNetRadar 📡
 
+<img width="517" height="612" alt="Screenshot 2026-09-16 185730" src="https://github.com/user-attachments/assets/7fa1157d-ea31-477f-9819-4f66cb6ef50e" />
+<img width="533" height="613" alt="Screenshot 2026-09-16 185835" src="https://github.com/user-attachments/assets/219af42e-d1c4-46a2-af8a-b2617b46a570" />
+
+
 <p align="center">
   <img src="icon.png" width="220" height="220" alt="CyberPunkNetRadar Icon" />
 </p>
